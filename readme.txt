@@ -4,3 +4,6 @@ Git has a mutable index called satge.
 Git stracks changed of files.
 Creating a new brmergeanch is quick AND simple.
 Git can merge branches.
+
+
+Kyle: 128ve980 ,ZR
