@@ -9,3 +9,6 @@ Git can merge branches.
 Kyle: 128ve980 ,ZR
 
 1314
+
+ZR: I would rather share one lifetime with you than face all the ages of this
+world alone.
