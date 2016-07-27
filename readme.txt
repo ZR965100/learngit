@@ -15,3 +15,5 @@ world alone.
 
 ZR: I can't say how every time I ever put my arms around you I felt that I was
 home. 
+
+Kyle:I wanna write code to encode our own life.
