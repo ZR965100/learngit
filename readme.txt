@@ -12,3 +12,6 @@ Kyle: 128ve980 ,ZR
 
 ZR: I would rather share one lifetime with you than face all the ages of this
 world alone.
+
+ZR: I can't say how every time I ever put my arms around you I felt that I was
+home. 
