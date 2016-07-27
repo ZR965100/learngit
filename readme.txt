@@ -6,4 +6,5 @@ Creating a new brmergeanch is quick AND simple.
 Git can merge branches.
 bug
 28ve
-HeiZhiShi
+
+The most important thing for me is making you smile.
